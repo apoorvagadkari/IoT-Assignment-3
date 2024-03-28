@@ -44,4 +44,3 @@ This code is designed to read temperature and humidity data from a DHT22 sensor 
 Overall, this code establishes a connection to a WiFi network, reads data from a DHT22 sensor, generates simulated CO2 values, and sends this data to ThingSpeak for storage and analysis.
 
 
-Below are the steps I took to 
